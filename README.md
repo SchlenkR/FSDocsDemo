@@ -8,7 +8,9 @@ A repo for demonstrating a minimal F# FsDocs demo use case with GitHub pages.
 
 ![Alt text](enable_Pages.png)
 
-* **Change parameters** in `./build/docs.ps1`
+* **Change parameters** in
+    * `./build/docs.ps1`
+    * `./src/Directory.Build.props`
 
 * The **docs content** is located in `./src/docs`
 
