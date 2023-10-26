@@ -4,7 +4,7 @@ A repo for demonstrating a minimal F# FsDocs demo use case with GitHub pages.
 
 ## Some Infos
 
-* **Enable GizHub Pages** like so:
+* **Enable GitHub Pages** like so:
 
 ![Alt text](enable_Pages.png)
 
