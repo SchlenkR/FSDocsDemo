@@ -1,9 +1,9 @@
 (**
 ---
-title: Overview
+title: Getting Started
 category: Documentation
 categoryindex: 1
-index: 1
+index: 2
 ---
 *)
 
