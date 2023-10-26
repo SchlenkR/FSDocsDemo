@@ -3,7 +3,7 @@
   <PropertyGroup>
     <RepositoryUrl>https://github.com/RonaldSchlenker/FSDocsDemo</RepositoryUrl>
     <FsDocsLicenseLink>https://github.com/RonaldSchlenker/FSDocsDemo/blob/main/README.md</FsDocsLicenseLink>
-    <FsDocsLogoSource>https://github.com/RonaldSchlenker/FSDocsDemo/blob/main/src/docs/mylogo.png</FsDocsLogoSource>
+    <FsDocsLogoSource>https://github.com/RonaldSchlenker/FSDocsDemo/raw/main/src/docs/mylogo.png</FsDocsLogoSource>
     <FsDocsReleaseNotesLink>https://github.com/RonaldSchlenker/FSDocsDemo/blob/main/README.md</FsDocsReleaseNotesLink>
   </PropertyGroup>
 
