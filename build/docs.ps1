@@ -1,8 +1,4 @@
 
-if ((Test-Path .\.fsdocs) -eq $true) {
-    Remove-Item .\.fsdocs\ -Force -Recurse
-}
-
 dotnet tool restore
 dotnet build ./src/**/*.fsproj -c Release -f netstandard2.0
 
