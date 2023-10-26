@@ -23,12 +23,12 @@ jobs:
 
       - name: Build docs
         shell: pwsh
-        run: ./build/genDocs.ps1
+        run: ./build/docs.ps1
 
       - name: Upload docs artifact to GitHub pages
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./docs
+          path: ./.docs
 
   deploy:   
     runs-on: ubuntu-latest
