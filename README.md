@@ -1,6 +1,6 @@
-# FSharp.Formatting.Demo
+# FSDocs Demo
 
-A repo for demonstrating a minimal FSharp.Formatting use case with GH pages
+A repo for demonstrating a minimal F# FsDocs demo use case with GitHub pages.
 
 ## Some Infos
 
@@ -14,7 +14,7 @@ A repo for demonstrating a minimal FSharp.Formatting use case with GH pages
 
 * The docs are created and publishes using the `.github/workflows/build-and-publish-docs.yml` workflow.
     * It triggers manually or on push to "main".
-    * The docs URL (for this repo) is: https://ronaldschlenker.github.io/FSharp.Formatting.Demo/
+    * The docs URL (for this repo) is: https://ronaldschlenker.github.io/FSDocsDemo/
 
 * You can **edit the docs during development** by running `./build/docs.ps1 watch` from the repo root.
     * Don't forget to forward the port if you are in a codespace!

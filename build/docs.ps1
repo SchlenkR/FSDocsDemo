@@ -16,5 +16,5 @@ dotnet fsdocs `
     --input ./src/docs `
     --output ./.docs `
     --properties Configuration=Release `
-    --sourcerepo https://github.com/RonaldSchlenker/FSharp.Formatting.Demo/blob/main/src `
-    --parameters root /FSharp.Formatting.Demo/
+    --sourcerepo https://github.com/RonaldSchlenker/FSDocsDemo/blob/main/src `
+    --parameters root /FSDocsDemo/
